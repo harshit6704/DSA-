@@ -9,7 +9,6 @@ int main(){
             ans= (ans*10) +rem;
             x=x/10;
             
-            
         }
     cout<<ans;
 }
